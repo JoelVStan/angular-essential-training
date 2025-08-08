@@ -7,11 +7,7 @@ Angular helps developers and programmers build and maintain complex applications
 
 In this course, instructor Derek Peruo introduces you to the essentials of this incredible platform, including some of its most powerful features such as comprehensive routing and navigation, dependency injection, and much more. Derek steps through Angular one feature at a time, focusing on the component-based architecture of the entire platform. Learn what Angular is, what it can do, how to configure it, how to troubleshoot common problems, and how to get up and running building a full-featured web app, following detailed instructions from start to finish. Upon completing this course, you’ll be ready to tackle other project-based courses in the LinkedIn Learning library and create your own customized Angular application.
 
-### Instructor
 
-Derek Peruo 
-                            
-Senior Technical Lead
 
                             
 
